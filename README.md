@@ -12,3 +12,7 @@ Note: this list is (roughly) sorted by the order in which projects were complete
     - [Hello, Cargo!](the-book/hello_cargo/)
     - [Guessing Game](the-book/guessing_game/)
     - [Variables](the-book/variables/)
+    - [Data Types](the-book/data_types/)
+    - [Functions](the-book/functions/)
+    - [Branches](the-book/branches/)
+    - [Temperature Converter](the-book/temperature_converter/)

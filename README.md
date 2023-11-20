@@ -16,3 +16,7 @@ Note: this list is (roughly) sorted by the order in which projects were complete
     - [Functions](the-book/functions/)
     - [Branches](the-book/branches/)
     - [Temperature Converter](the-book/temperature_converter/)
+    - [Ownership](the-book/ownership/)
+    - [String Slice](the-book/string_slice/)
+    - [Structs](the-book/structs/)
+    - [Rectangles](the-book/rectangles/)

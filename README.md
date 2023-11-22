@@ -20,3 +20,4 @@ Note: this list is (roughly) sorted by the order in which projects were complete
     - [String Slice](the-book/string_slice/)
     - [Structs](the-book/structs/)
     - [Rectangles](the-book/rectangles/)
+    - [Patterns](the-book/patterns/)

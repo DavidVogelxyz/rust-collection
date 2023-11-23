@@ -21,3 +21,4 @@ Note: this list is (roughly) sorted by the order in which projects were complete
     - [Structs](the-book/structs/)
     - [Rectangles](the-book/rectangles/)
     - [Patterns](the-book/patterns/)
+    - [Restaurant](the-book/restaurant/)

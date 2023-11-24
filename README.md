@@ -28,3 +28,5 @@ Note: this list is (roughly) sorted by the order in which projects were complete
     - [Contains Duplicate](leetcode/contains_duplicate/)
     - [Valid Anagram](leetcode/valid_anagram/)
     - [Two Sum](leetcode/two_sum/)
+- [Algorithms](algorithms/)
+    - [Binary Search](algorithms/binary_search/)

@@ -22,3 +22,5 @@ Note: this list is (roughly) sorted by the order in which projects were complete
     - [Rectangles](the-book/rectangles/)
     - [Patterns](the-book/patterns/)
     - [Restaurant](the-book/restaurant/)
+    - [Collections](the-book/collections/)
+    - [Hashmap](the-book/hashmap/)

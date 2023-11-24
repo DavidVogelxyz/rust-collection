@@ -24,3 +24,7 @@ Note: this list is (roughly) sorted by the order in which projects were complete
     - [Restaurant](the-book/restaurant/)
     - [Collections](the-book/collections/)
     - [Hashmap](the-book/hashmap/)
+- [Leetcode](leetcode/)
+    - [Contains Duplicate](leetcode/contains_duplicate/)
+    - [Valid Anagram](leetcode/valid_anagram/)
+    - [Two Sum](leetcode/two_sum/)

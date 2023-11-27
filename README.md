@@ -27,6 +27,7 @@ Note: this list is (roughly) sorted by the order in which projects were complete
     - [Errors](the-book/errors/)
     - [Generics](the-book/generics/)
     - [Adder](the-book/adder/)
+    - [minigrep](the-book/minigrep/)
 - [Leetcode](leetcode/)
     - [Contains Duplicate](leetcode/contains_duplicate/)
     - [Valid Anagram](leetcode/valid_anagram/)

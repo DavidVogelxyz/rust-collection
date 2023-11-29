@@ -35,3 +35,4 @@ Note: this list is (roughly) sorted by the order in which projects were complete
 - [Algorithms](algorithms/)
     - [Binary Search](algorithms/binary_search/)
     - [Bubble Sort](algorithms/bubble_sort/)
+    - [Quick Sort](algorithms/quick_sort/)

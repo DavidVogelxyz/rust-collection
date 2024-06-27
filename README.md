@@ -35,6 +35,7 @@ Note: this list is (roughly) sorted by the order in which projects were complete
     - [Two Sum](leetcode/two_sum/)
 - [Algorithms](algorithms/)
     - [Binary Search](algorithms/binary_search/)
-    - [Bubble Sort](algorithms/bubble_sort/)
+    - [Bubble Sort, from 2023 November](algorithms/bubble_sort-2023-november/)
     - [Quick Sort](algorithms/quick_sort/)
+    - [Bubble Sort, from 2024 June](algorithms/bubble_sort-2024-june/)
 - [thePrimeagen's DSA course](theprimeagen-dsa-course/)
